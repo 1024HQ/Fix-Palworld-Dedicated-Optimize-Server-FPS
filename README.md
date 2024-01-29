@@ -1,4 +1,4 @@
-# Fix Palworld Dedicated Optimize Server FPS (Muticore & Hyperthreading)
+# Fix Palworld Dedicated Optimize Server FPS (Multicore & Hyperthreading)
 Fix Palworld Dedicated Optimize Server FPS
 ช่วยให้ดึงประสิทธิภาพของเซิร์ฟเวอร์ออกมาดีที่สุดเท่าที่จะทำได้ในตอนนี้
 ทดสอบโดยใช้ Save ที่เล่นมาหนักพอสมควร ก่อนปรับ และ หลังจาก ปรับใช้แล้ว โดย Setting จะบังคับเปิดใช้ Core และ Hyperthreading
@@ -14,7 +14,7 @@ Fix Palworld Dedicated Optimize Server FPS
 | ------------- | ------------- |
 | useperfthreads  | Full Threads  |
 | NoAsyncLoadingThread  | Disable Async (บังคับให้ทุก task ประมวลผลทำงานพร้อมกันโดยไม่ต้องรอtaskก่อนหน้า)  |
-| UseMultithreadForDS  | Enable MutiThread  |
+| UseMultithreadForDS  | Enable MultiThread  |
 | port  | connecting port  |
 | players  | How many max player.  |
 | corelimit  | Max core processors  |
