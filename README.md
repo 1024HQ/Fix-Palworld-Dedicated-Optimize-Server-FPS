@@ -77,6 +77,7 @@ NetServerMaxTickRate=120
 
 
 *ไม่แนะนำให้ปรับสูงเกินกว่าประสิทธิภาพของเซิร์ฟเวอร์ โดยเฉพาะ ถ้าใช้ VPS ไม่ควรไปปรับมัน
+
 Have fun. : )
 
 https://youtu.be/Oi1cIqVIEnE
