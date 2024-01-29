@@ -15,7 +15,7 @@ Fix Palworld Dedicated Optimize Server FPS
 | useperfthreads  | Full Threads  |
 | NoAsyncLoadingThread  | Disable Async (บังคับให้ทุก task ประมวลผลทำงานพร้อมกันโดยไม่ต้องรอtaskก่อนหน้า)  |
 | UseMultithreadForDS  | Enable MutiThread  |
-| port  | Content Cell  |
+| port  | connecting port  |
 | players  | How many max player.  |
 | corelimit  | Max core processors  |
 | physicalcorelimit  | Max Core  |
